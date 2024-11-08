@@ -1,2 +1,8 @@
-A comprehensive data analysis and predictive modeling project focused on COVID-19 data from 193 countries. This project includes data visualization, trend analysis, and forecasting models for predicting COVID-19 peaks and lockdown timings. The predictions achieved over 96% accuracy, providing actionable insights to support targeted lockdowns and optimize resource allocation.
+This repository contains code and data for a COVID-19 data visualization and analysis project, which aims to explore and visualize trends in COVID-19 cases across various countries. The project includes:
+
+Covid_Visualization.py: Python script for visualizing COVID-19 data trends. This script generates graphs and charts to help identify trends and patterns in case numbers across countries.
+countries-aggregated.csv.webarchive.txt.csv: A dataset containing aggregated COVID-19 case data for multiple countries, used as the primary data source for the analysis.
+README.md: Documentation and project details.
+
+This project provides insights into the spread of COVID-19 and the effectiveness of response strategies, enabling better understanding of the pandemic’s progression and impact.
 
